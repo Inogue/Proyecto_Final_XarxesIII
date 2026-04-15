@@ -12,7 +12,7 @@
 | MB | Gateway DMZ | 99 | 192.168.99.1 | Interfaz DMZ del firewall |
 | MB | Servidor Web público | 99 | 192.168.99.10 | Publicación externa |
 
-# Edificio Iker Casillas – Ventas Físicas
+# Edificio Casillas – Ventas Físicas
 
 | Ubicación | Dispositivo / Función | VLAN | IP asignada | Observaciones |
 |---|---|---:|---|---|
